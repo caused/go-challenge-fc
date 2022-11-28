@@ -1,0 +1,1 @@
+Para executar a imagem a partir do Docker Hub: docker run caused/full-cycle
